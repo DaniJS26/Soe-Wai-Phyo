@@ -47,7 +47,7 @@ Embedded Systems · Networking · Cybersecurity ·
 ### 📫 Connect With Me
 
 - 💼 [LinkedIn](www.linkedin.com/in/soewaiphyo-dj26302)  
-- 📧 [Email](mailto:soewaiphyo.id@email.com)  
+- 📧 [Gmail](mailto:soewaiphyo.id@gmail.com)  
 - 🧰 [GitHub Projects](https://github.com/DaniJS26)
 
 ---
